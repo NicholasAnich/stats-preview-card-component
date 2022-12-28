@@ -156,7 +156,7 @@ ul {
     gap: 16px;
     text-align: center;
     margin-block: 40px;
-    opacity: 0.75;
+    /* opacity: 0.75; */
 }
 
 @media (min-width: 64em) {
@@ -239,7 +239,7 @@ ul {
     color: var(--neutral-clr-300);
     letter-spacing: 1px;
     line-height: 25px;
-    opacity: 0.6;
+    /* opacity: 0.6; */
 }
 
 @media (min-width: 64em) {
