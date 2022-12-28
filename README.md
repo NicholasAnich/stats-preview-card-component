@@ -35,7 +35,7 @@ Your users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/NicholasAnich/stats-preview-card-component)
--   Live Site URL: [Website](https://sunny-biscochitos-037340.netlify.app/)
+-   Live Site URL: [Website](https://classy-hotteok-16ccc3.netlify.app/)
 
 ### Screenshots
 
